@@ -1,3 +1,13 @@
+Click the deploy icon below !
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lexxy24/v13)
+
+```bash
+ > heroku/nodejs
+ > https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+ > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+
 # ```SELF-BOT```
 <p align="center">
 <a href="https://github.com/zeeoneofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/zeeoneofc?color=red&style=flat-square"></a>
